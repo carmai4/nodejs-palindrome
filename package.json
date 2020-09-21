@@ -1,0 +1,17 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "takes input string and returns palindrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Caroline Maiorana",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "minimist": "^1.2.5"
+  }
+}
